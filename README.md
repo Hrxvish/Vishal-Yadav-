@@ -14,7 +14,7 @@
 ---
 
 ### 🧠 Tech Stack
-`JavaScript` `Node.js` `Express.js` `MongoDB`  
+'Java' 'DSA' `JavaScript` `Node.js` `Express.js` `MongoDB` 'Springboot'
 `Python` `OpenCV` `Firebase` `GCP`  
 `Java` `PHP` `Bootstrap` `Git & GitHub`
 
