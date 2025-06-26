@@ -12,13 +12,10 @@
 - AI/ML for real-time vision applications
 
 ---
-
 ### 🧠 Tech Stack
-'Java' 'DSA' `JavaScript` `Node.js` `Express.js` `MongoDB` 'Springboot'
+`DSA` `Java` `JavaScript` `Node.js` `Express.js` `MongoDB` `Spring Boot`  
 `Python` `OpenCV` `Firebase` `GCP`  
-`Java` `PHP` `Bootstrap` `Git & GitHub`
-
----
+`PHP` `Bootstrap` `Git & GitHub`
 
 ### 🏆 Roles & Projects
 - 🧑‍🔬 **Founder of SightEcho** – AI-based assistive tech for blind individuals  
